@@ -154,6 +154,15 @@ This project helps mobile retail businesses:
 - Integrate **marketing spend data** for campaign effectiveness
 - Enable **real-time reporting** with API/database connectivity
 
+![CoverDashboard](https://github.com/user-attachments/assets/ce3d1576-3523-4b1c-bd36-00fb06cafe65)
+
+![MTD Report](https://github.com/user-attachments/assets/66bc0721-4905-4437-9076-0633681fef65)
+
+![Same Period Last Year](https://github.com/user-attachments/assets/31f08a06-9eb2-456d-8969-3dd3bafd2b82)
+
+
+
+
 ---
 
 
